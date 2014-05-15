@@ -5,7 +5,7 @@ Yeah, one day, I want to build an application to listen the voice of my speaking
 
 But i must protect the voice to avoid others who is not student of my teacher, so I add a lock when my app start. But EVERY open-source lock lib is too big and too complex. So I build this.
 
-![alt text](https://dl-web.dropbox.com/get/public/SimpleNumberLock.png?_subject_uid=122251659&w=AADXQi0Vaw17x4bgUOx8zX04uIz8ZWprM91PHIX55Blgig)
+![alt text](screen_shot.png)
 
 ==============
 Notice 
