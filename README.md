@@ -5,7 +5,7 @@ Yeah, one day, I want to build an application to listen the voice of my speaking
 
 But i must protect the voice to avoid others who is not student of my teacher, so I add a lock when my app start. But EVERY open-source lock lib is too big and too complex. So I build this.
 
-![alt text](screen_shot.png)
+<img src="screen_shot.png" alt="screen_shot" width="200px"/ >
 
 ==============
 Notice 
