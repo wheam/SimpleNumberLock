@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SimpleNumberLock.iml" filepath="$PROJECT_DIR$/SimpleNumberLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleNumberLock/SimpleNumberLock-SimpleNumberLock.iml" filepath="$PROJECT_DIR$/SimpleNumberLock/SimpleNumberLock-SimpleNumberLock.iml" />
+    </modules>
+  </component>
+</project>
+
