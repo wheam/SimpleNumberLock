@@ -1,9 +1,11 @@
 SimpleNumberLock
 ================
 
-Yeah, one day, i want to build a application to listen the voice of my speaking English teacher who says a lot of English soundmarks.
+Yeah, one day, I want to build an application to listen the voice of my speaking English teacher who says a lot of English soundmarks.
 
 But i must protect the voice to avoid others who is not student of my teacher, so I add a lock when my app start. But EVERY open-source lock lib is too big and too complex. So I build this.
+
+![alt text](https://github.com/wheam/SimpleNumberLock/blob/master/screen_shot.png)
 
 ==============
 Notice 
