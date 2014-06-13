@@ -12,9 +12,7 @@ import android.widget.RelativeLayout;
 import android.widget.TableLayout;
 import android.widget.TextView;
 
-/**
- * @author wheam@wandoujia.com (Qi Zhang)
- */
+
 public class SimpleNumberLockView extends RelativeLayout {
   private OnFinishListener onFinishListener;
   private List<Number> numbers;
